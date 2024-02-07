@@ -1,0 +1,21 @@
+# Python Assignment & Project #1
+# Write a python program which should following
+
+# Prompt Input from user one Location of Linux filesystem and list each files of the directory.
+# file name must be listed with row and serical num ie. 1.2.3.4.5 along with size | owner | last modified date.
+# User must be promoted with a options to delete files by choosing serical num ie. 1.2.3.4.5
+# User must be promoted every time with 2 options. 1. Exit the interactive session 2. Continue with file delete ops.
+# Python Assignment & Project #2
+# Write a python program which should following
+
+# Take one filesystem of Windows or Linux and the filesystem must be having few log files.
+# Write a python script to check if a files which has been modified in last 24 hours
+# Only files which has been modified in last 24 hours, must to rotated & rename with filename-date-year format.
+# Before renaming, need to check if it has been rotated for the day already.
+# Python Assignment & Project 3
+# Write a python program which should following
+
+# Install Apache and Tomcat and run it. Get some errors in Apache and Tomcat log files for next code.
+# Write a python code which would read all apache and tomcat log and parse only full lines which has “Error” or “error” or “ERROR”.
+# And Send all the lines which contains error to one file.
+# One email must be sent to ADMIN containing a Last 20 lines of the file in BODY and full file must be attached in the email.
