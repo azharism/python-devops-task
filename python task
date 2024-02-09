@@ -24,7 +24,7 @@
 
 ====================================================================================================================================
 
-How to parse a JSON file using Python 
+1How to parse a JSON file using Python 
 Python script to make an HTTP API call with the bearer token.
 Python script to execute SQL statements on PostgreSQL.
 Create an EC2 instance using Python boto.
